@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
-"""Module docstring
+"""Module to download and load the cats dataset.
 """
 
 
